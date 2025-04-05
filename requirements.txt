@@ -1,0 +1,11 @@
+streamlit
+torch
+ftfy
+regex
+tqdm
+numpy
+Pillow
+faiss-cpu
+scikit-learn
+zipfile
+requests
