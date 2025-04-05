@@ -14,8 +14,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 INDEX_PATH = "faiss_clip_index.idx"
 CAPTIONS_PATH = "captions.npy"
-IMAGE_FOLDER = "D:/vlm_project/coco/images/train2017"
-UNSPLASH_ACCESS_KEY = "wLZntp-NtsiCer0Y267fzLAMZPR_7m4qGm2WRB-qM7g"
+IMAGE_FOLDER = ""  # COCO DATASET
+UNSPLASH_ACCESS_KEY = "" 
 K = 7  # K images
 
 # CLIP MODEL
