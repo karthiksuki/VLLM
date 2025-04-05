@@ -80,3 +80,15 @@ You're now ready to launch the app with:
 ```bash
 streamlit run vllm.py
 ```
+
+# 📚 References
+
+| Reference Number | Title / Source                                                | Link                                                                 |
+|------------------|----------------------------------------------------------------|----------------------------------------------------------------------|
+| [1]              | Learning Transferable Visual Models From Natural Language Supervision | https://arxiv.org/pdf/2103.00020                                     |
+| [2]              | FAISS: Facebook AI Similarity Search                         | https://arxiv.org/pdf/2401.08281                                     |
+| [3]              | Streamlit Documentation                                       | https://docs.streamlit.io                                            |
+| [4]              | Unsplash API                                                  | https://unsplash.com/developers                                      |
+| [5]              | scikit-learn: Precision, Recall, mAP Metrics                  | https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics |
+| [6]              | COCO: Common Objects in Context Dataset                      | https://cocodataset.org/#home                                        |
+
