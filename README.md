@@ -27,7 +27,7 @@ This project implements a Visual Language Model (VLM)-powered multi-modal search
 
 ### Demo
 
-<iframe src="https://drive.google.com/file/d/1U4QJmFzSuQmrpcscqOVPmty-ENrCUMmD/preview" width="640" height="480" allow="autoplay"></iframe>
+[DEMO_VIDEO](https://vimeo.com/1072779584?share=copy)
 
 ## Evaluation Metrics
 
