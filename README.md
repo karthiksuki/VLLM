@@ -20,13 +20,14 @@ This project implements a Visual Language Model (VLM)-powered multi-modal search
 ## User Interface (Streamlit)
 
 ![Image_Interface](https://drive.google.com/uc?id=1omZQGqUatfG0jQvByO1nImdHDqeFH58t)
+
+### Application with Accuracy: 
+
 ![Image_Query](https://drive.google.com/uc?id=1ZDiqLhKA9dgzRTBv2mdtCnwLWknRT-9D)
 
 ### Demo
 
-![Video_DEMO](https://drive.google.com/uc?id=1U4QJmFzSuQmrpcscqOVPmty-ENrCUMmD)
-
-
+<iframe src="https://drive.google.com/file/d/1U4QJmFzSuQmrpcscqOVPmty-ENrCUMmD/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Evaluation Metrics
 
