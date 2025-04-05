@@ -27,10 +27,7 @@ This project implements a Visual Language Model (VLM)-powered multi-modal search
 
 ### Demo
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/karthiksuki/VLLM/blob/main/VLLM_PROJECT_DEMO.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://player.vimeo.com/video/1072779584?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Evaluation Metrics
 
