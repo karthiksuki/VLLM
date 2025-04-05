@@ -19,8 +19,7 @@ This project implements a Visual Language Model (VLM)-powered multi-modal search
 
 ## User Interface (Streamlit)
 
-[![Demo Video]()](https://vimeo.com/1072779584?share=copy)
-
+![Image_Interface](https://drive.google.com/uc?id=1omZQGqUatfG0jQvByO1nImdHDqeFH58t)
 
 ### Application with Accuracy: 
 
@@ -28,9 +27,10 @@ This project implements a Visual Language Model (VLM)-powered multi-modal search
 
 ### Demo
 
-<div style="padding:42.86% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1072779584?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="VLLM_PROJECT"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-[DEMO_VIDEO](https://vimeo.com/1072779584?share=copy)
+<video width="640" height="360" controls>
+  <source src="https://github.com/karthiksuki/VLLM/blob/main/VLLM_PROJECT_DEMO.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Evaluation Metrics
 
