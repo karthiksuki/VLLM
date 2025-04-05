@@ -17,6 +17,24 @@ This project implements a Visual Language Model (VLM)-powered multi-modal search
 - [Unsplash API](https://unsplash.com/developers)
 - [scikit-learn](https://scikit-learn.org/)
 
+## User Interface (Streamlit)
+
+[Images](https://drive.google.com/file/d/1omZQGqUatfG0jQvByO1nImdHDqeFH58t/view?usp=sharing)
+
+### Demo
+
+
+
+
+## Evaluation Metrics
+
+- Precision by K calls – Relevance among top-K results
+
+- Recall by K calls – Coverage of relevant images in top-K
+
+- mAP – Mean average precision over the returned set
+
+where, K - represent the no of images (K = 6 default)
 
 ## Installation
 
